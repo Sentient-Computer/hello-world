@@ -4,7 +4,8 @@ int main(void){
 
   //Adding a Commit Comment
 
-  printf("Hello World!\n");
+  //Need to delte uppercases
+  printf("hello world\n");
 
 }
 
